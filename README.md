@@ -66,3 +66,6 @@ vim.cmd("colorscheme wolf359")
 | Strings | `#B08828` amber |
 | Numbers | `#00BCA0` teal |
 | Macros / errors | `#D03030` red |
+
+## License
+MIT
