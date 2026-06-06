@@ -19,7 +19,7 @@ highly recommend it ;)
 
 ```lua
 {
-  "ShiraiEd/wolf359.nvim",
+  "ShiraiEd/Wolf359_nvim_rust_theme",
   lazy = false,
   priority = 1000,
   config = function()
@@ -34,7 +34,7 @@ highly recommend it ;)
 -- lua/plugins/theme.lua
 return {
   { "LazyVim/LazyVim", opts = { colorscheme = "wolf359" } },
-  { "ShiraiEd/wolf359.nvim", lazy = false, priority = 1000 },
+  { "ShiraiEd/Wolf359_nvim_rust_theme", lazy = false, priority = 1000 },
 }
 ```
 
