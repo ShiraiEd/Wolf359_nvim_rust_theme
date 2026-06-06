@@ -9,9 +9,9 @@ Name inspired by the [`Wolf359`](https://wolf359.fm/) audiodrama,
 highly recommend it ;)
 
 ## Preview
-![](/wolf359.nvim/examples/1.png)
+![](examples/1.png)
 
-![](/wolf359.nvim/examples/2.png)
+![](/examples/2.png)
 
 ## Requirements
 
