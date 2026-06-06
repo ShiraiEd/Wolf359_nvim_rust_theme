@@ -8,6 +8,11 @@ Extra care for rust-analyzer semantic tokens, lifetimes, stdlib structs, and der
 Name inspired by the [`Wolf359`](https://wolf359.fm/) audiodrama,
 highly recommend it ;)
 
+## Preview
+![](/wolf359.nvim/examples/1.png)
+
+![](/wolf359.nvim/examples/2.png)
+
 ## Requirements
 
 - Neovim 0.12+
